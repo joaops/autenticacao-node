@@ -1,0 +1,11 @@
+{
+    "env": {
+        "PORT": 3000,
+        "DB_URI": "mongodb://localhost:27017/auth",
+        "JWT_KEY": "cbf522979323ae6ab1afb451ac8b34da21ba1930f34c246b91d84b449d19bd03",
+        "EMAIL_SMTP": "smtp.ethereal.email",
+        "EMAIL_PORT": 587,
+        "EMAIL_USER": "lessie.stiedemann@ethereal.email",
+        "EMAIL_PASS": "FPmDjJckeSznctDtfA"
+    }
+}
